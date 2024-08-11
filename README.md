@@ -1,4 +1,4 @@
-# StockTracking
+# Stock Tracker
 Stock Tracking App with N-Tier Architecture, Facade Design Pattern, and Entity Framework
 
 This Stock Tracking App demonstrates advanced software engineering principles through its use of N-Tier Architecture, the Facade Design Pattern, and Entity Framework. Developed with Microsoft SQL Server and SQL Server Management Studio (SSMS), this application provides a robust and scalable solution for monitoring and managing stock data.
