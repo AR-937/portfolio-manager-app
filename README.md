@@ -21,4 +21,4 @@ Highlights:
 - Modular design allowing for easy updates and extensions.
 - Clean, maintainable code architecture that adheres to best practices in software design.
 
-Explore the code and contribute to its evolution. For setup instructions, usage, and additional details, please refer to the documentation provided in the repository.
+Please feel free to explore the code.
