@@ -21,4 +21,4 @@ Highlights:
 - Modular design allowing for easy updates and extensions.
 - Clean, maintainable code architecture that adheres to best practices in software design.
 
-Please feel free to explore the code.
+Please feel free to explore the project.
