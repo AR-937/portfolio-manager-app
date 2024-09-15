@@ -1,9 +1,10 @@
 # Stock Manager
 
-**Stock Manager** is a Windows Forms application designed for managing and monitoring stock data. This app utilizes advanced software engineering principles, including N-Tier Architecture, the Facade Design Pattern, and Entity Framework, to offer a scalable and efficient stock tracking solution.
+**Stock Manager** is a Windows Forms application designed for managing and monitoring stock data. This app utilizes advanced software engineering principles, including N-Tier Architecture, the Facade Design Pattern, and Entity Framework, to offer a scalable and efficient stock tracking solution. The application supports full CRUD operations for stock data, allowing for comprehensive management of inventory.
 
 ## Features
 
+- **Comprehensive Stock Management**: Enables CRUD operations for stock data, including adding, updating, deleting, and viewing stock records.
 - **Unified Interface**: Employs the Facade Design Pattern to provide a simplified and consistent interface for interacting with complex systems.
 - **Efficient Data Access**: Implements Entity Framework for streamlined database operations and easier data manipulation.
 - **Modular Design**: Facilitates easy updates and extensibility of the application.
