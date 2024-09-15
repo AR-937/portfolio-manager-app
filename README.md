@@ -21,4 +21,7 @@ Highlights:
 - Modular design allowing for easy updates and extensions.
 - Clean, maintainable code architecture that adheres to best practices in software design.
 
-Please feel free to explore the project.
+
+## Contact
+
+For more information or inquiries, please contact me at [abdirahmanxabokar@gmail.com](mailto:abdirahmanxabokar@gmail.com).
