@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Comprehensive Stock Management**: Enables CRUD operations for stock data, including adding, updating, deleting, and viewing stock records.
+- **Comprehensive Stock Management**: Enables CRUD operations for stock data, including adding, updating, deleting, and viewing sales.
 - **Unified Interface**: Employs the Facade Design Pattern to provide a simplified and consistent interface for interacting with complex systems.
 - **Efficient Data Access**: Implements Entity Framework for streamlined database operations and easier data manipulation.
 - **Modular Design**: Facilitates easy updates and extensibility of the application.
