@@ -1,6 +1,6 @@
-# Stock Tracker
+# Stock Manager
 
-**Stock Tracker** is a Windows Forms application designed for managing and monitoring stock data. This app utilizes advanced software engineering principles, including N-Tier Architecture, the Facade Design Pattern, and Entity Framework, to offer a scalable and efficient stock tracking solution.
+**Stock Manager** is a Windows Forms application designed for managing and monitoring stock data. This app utilizes advanced software engineering principles, including N-Tier Architecture, the Facade Design Pattern, and Entity Framework, to offer a scalable and efficient stock tracking solution.
 
 ## Tech Stack
 
