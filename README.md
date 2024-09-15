@@ -1,27 +1,18 @@
 # Stock Tracker
-Stock Tracking App with N-Tier Architecture, Facade Design Pattern, and Entity Framework
 
-This Stock Tracking App demonstrates advanced software engineering principles through its use of N-Tier Architecture, the Facade Design Pattern, and Entity Framework. Developed with Microsoft SQL Server and SQL Server Management Studio (SSMS), this application provides a robust and scalable solution for monitoring and managing stock data.
+**Stock Tracker** is a Windows Forms application designed for managing and monitoring stock data. This app utilizes advanced software engineering principles, including N-Tier Architecture, the Facade Design Pattern, and Entity Framework, to offer a scalable and efficient stock tracking solution.
 
-## Key Features
+## Tech Stack
 
-- N-Tier Architecture: Separates concerns into distinct layers (Presentation, Business Logic, Data Access) to enhance scalability and maintainability.
-- Facade Design Pattern: Simplifies interactions with complex subsystems by providing a unified and easy-to-use interface.
-- Entity Framework: Utilizes ORM (Object-Relational Mapping) to streamline data access and manipulation, reducing the complexity of database operations.
+- **Microsoft SQL Server**: For managing the application's database.
+- **Entity Framework**: ORM framework for efficient data access.
+- **C# / .NET**: Programming language and framework used for development.
 
-## Technologies
+## Features
 
-- Microsoft SQL Server
-- SQL Server Management Studio (SSMS)
-- Entity Framework
-- C# / .NET
-
-## Highlights
-
-- Comprehensive stock management with real-time updates and efficient data handling.
-- Modular design allowing for easy updates and extensions.
-- Clean, maintainable code architecture that adheres to best practices in software design.
-
+- **Scalable Architecture**: Uses N-Tier Architecture to separate concerns into Presentation, Business Logic, and Data Access layers, enhancing maintainability and scalability.
+- **Unified Interface**: Employs the Facade Design Pattern to provide a simplified and consistent interface for interacting with complex systems.
+- **Modular Design**: Facilitates easy updates and extensibility of the application.
 
 ## Contact
 
